@@ -1,6 +1,6 @@
 # flutter_object_dectection_app
 
-A new Flutter project.
+Simple example about Object Dectection API
 
 ## Getting Started
 
